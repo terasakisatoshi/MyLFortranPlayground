@@ -31,4 +31,4 @@ Hello!
 $ julia --project jupyterlab.jl
 ```
 
-You'll find Jupyter kernel for LFortran is shown.
+You'll find a Jupyter kernel for LFortran.
