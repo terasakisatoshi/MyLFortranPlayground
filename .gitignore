@@ -1,0 +1,5 @@
+.CondaPkg
+.ipynb_checkpoints
+*.o
+*.out
+**/input

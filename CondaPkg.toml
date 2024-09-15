@@ -1,0 +1,6 @@
+channels = ["conda-forge"]
+
+[deps]
+jupytext = ""
+jupyterlab = ""
+lfortran = ""
